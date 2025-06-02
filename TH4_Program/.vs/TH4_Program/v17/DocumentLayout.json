@@ -1,0 +1,121 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\dangl\\Downloads\\TH4_Program\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EA2D7DE0-AFDE-4D13-86BC-70610DC652FD}|TH4_Program\\TH4_Program.csproj|c:\\users\\dangl\\downloads\\th4_program\\th4_program\\server.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA2D7DE0-AFDE-4D13-86BC-70610DC652FD}|TH4_Program\\TH4_Program.csproj|solutionrelative:th4_program\\server.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA2D7DE0-AFDE-4D13-86BC-70610DC652FD}|TH4_Program\\TH4_Program.csproj|c:\\users\\dangl\\downloads\\th4_program\\th4_program\\maxnumberservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA2D7DE0-AFDE-4D13-86BC-70610DC652FD}|TH4_Program\\TH4_Program.csproj|solutionrelative:th4_program\\maxnumberservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA2D7DE0-AFDE-4D13-86BC-70610DC652FD}|TH4_Program\\TH4_Program.csproj|c:\\users\\dangl\\downloads\\th4_program\\th4_program\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA2D7DE0-AFDE-4D13-86BC-70610DC652FD}|TH4_Program\\TH4_Program.csproj|solutionrelative:th4_program\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA2D7DE0-AFDE-4D13-86BC-70610DC652FD}|TH4_Program\\TH4_Program.csproj|c:\\users\\dangl\\downloads\\th4_program\\th4_program\\imaxnumberservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA2D7DE0-AFDE-4D13-86BC-70610DC652FD}|TH4_Program\\TH4_Program.csproj|solutionrelative:th4_program\\imaxnumberservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA2D7DE0-AFDE-4D13-86BC-70610DC652FD}|TH4_Program\\TH4_Program.csproj|c:\\users\\dangl\\downloads\\th4_program\\th4_program\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{EA2D7DE0-AFDE-4D13-86BC-70610DC652FD}|TH4_Program\\TH4_Program.csproj|solutionrelative:th4_program\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IMaxNumberService.cs",
+              "DocumentMoniker": "C:\\Users\\dangl\\Downloads\\TH4_Program\\TH4_Program\\IMaxNumberService.cs",
+              "RelativeDocumentMoniker": "TH4_Program\\IMaxNumberService.cs",
+              "ToolTip": "C:\\Users\\dangl\\Downloads\\TH4_Program\\TH4_Program\\IMaxNumberService.cs",
+              "RelativeToolTip": "TH4_Program\\IMaxNumberService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T07:35:59.217Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MaxNumberService.cs",
+              "DocumentMoniker": "C:\\Users\\dangl\\Downloads\\TH4_Program\\TH4_Program\\MaxNumberService.cs",
+              "RelativeDocumentMoniker": "TH4_Program\\MaxNumberService.cs",
+              "ToolTip": "C:\\Users\\dangl\\Downloads\\TH4_Program\\TH4_Program\\MaxNumberService.cs",
+              "RelativeToolTip": "TH4_Program\\MaxNumberService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T07:35:52.41Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\dangl\\Downloads\\TH4_Program\\TH4_Program\\App.config",
+              "RelativeDocumentMoniker": "TH4_Program\\App.config",
+              "ToolTip": "C:\\Users\\dangl\\Downloads\\TH4_Program\\TH4_Program\\App.config",
+              "RelativeToolTip": "TH4_Program\\App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-06-02T07:22:10.521Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Server.cs",
+              "DocumentMoniker": "C:\\Users\\dangl\\Downloads\\TH4_Program\\TH4_Program\\Server.cs",
+              "RelativeDocumentMoniker": "TH4_Program\\Server.cs",
+              "ToolTip": "C:\\Users\\dangl\\Downloads\\TH4_Program\\TH4_Program\\Server.cs",
+              "RelativeToolTip": "TH4_Program\\Server.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAA0wBgAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T07:20:27.144Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Client.cs",
+              "DocumentMoniker": "C:\\Users\\dangl\\Downloads\\TH4_Program\\TH4_Program\\Client.cs",
+              "RelativeDocumentMoniker": "TH4_Program\\Client.cs",
+              "ToolTip": "C:\\Users\\dangl\\Downloads\\TH4_Program\\TH4_Program\\Client.cs",
+              "RelativeToolTip": "TH4_Program\\Client.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAAcwFIAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T07:20:05.4Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+C:\Users\dangl\source\repos\TH2\TH2\bin\Debug\net8.0\TH2.exe
+C:\Users\dangl\source\repos\TH2\TH2\bin\Debug\net8.0\TH2.deps.json
+C:\Users\dangl\source\repos\TH2\TH2\bin\Debug\net8.0\TH2.runtimeconfig.json
+C:\Users\dangl\source\repos\TH2\TH2\bin\Debug\net8.0\TH2.dll
+C:\Users\dangl\source\repos\TH2\TH2\bin\Debug\net8.0\TH2.pdb
+C:\Users\dangl\source\repos\TH2\TH2\obj\Debug\net8.0\TH2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dangl\source\repos\TH2\TH2\obj\Debug\net8.0\TH2.AssemblyInfoInputs.cache
+C:\Users\dangl\source\repos\TH2\TH2\obj\Debug\net8.0\TH2.AssemblyInfo.cs
+C:\Users\dangl\source\repos\TH2\TH2\obj\Debug\net8.0\TH2.csproj.CoreCompileInputs.cache
+C:\Users\dangl\source\repos\TH2\TH2\obj\Debug\net8.0\TH2.dll
+C:\Users\dangl\source\repos\TH2\TH2\obj\Debug\net8.0\refint\TH2.dll
+C:\Users\dangl\source\repos\TH2\TH2\obj\Debug\net8.0\TH2.pdb
+C:\Users\dangl\source\repos\TH2\TH2\obj\Debug\net8.0\TH2.genruntimeconfig.cache
+C:\Users\dangl\source\repos\TH2\TH2\obj\Debug\net8.0\ref\TH2.dll
